@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  Cumberflix
+//
+//  Created by Deepak on 31/10/25.
+//
+
+TMDB_API_KEY = 99bed34685d7a646e9d251a294b3e805
+
+
